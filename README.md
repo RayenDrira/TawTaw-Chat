@@ -11,7 +11,9 @@ TawTaw is a local messaging app in C that lets you chat between different termin
 1. Clone the repository:  
    ```bash
    git clone https://github.com/RayenDrira/TawTaw-Chat.git
-   
-cd TawTaw-Chat
-gcc tawtaw.c -o tawtaw
-./tawtaw
+2. Navigate to the project directory:
+   cd TawTaw-Chat
+3. Compile the code:
+   gcc tawtaw.c -o tawtaw
+4. Run the application in multiple terminals:
+   ./tawtaw
