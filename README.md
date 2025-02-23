@@ -1,4 +1,4 @@
-# TawTaw-Chat  
+# Overview
 
 TawTaw is a local messaging app in C that lets you chat between different terminal windows on the same PC, with a colorful design.  
 
