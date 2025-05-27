@@ -20,3 +20,9 @@ TawTaw is a local messaging app in C that lets you chat between different termin
 4. Run the application in multiple terminals:
    ```bash
    ./tawtaw
+
+## 👨‍💻 Author
+
+**Rayen Drira**  
+Computer Engineering Student | Exploring IoT & Cybersecurity | Scout Leader 🏕️ 
+[GitHub Profile](https://github.com/RayenDrira)
