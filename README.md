@@ -24,5 +24,5 @@ TawTaw is a local messaging app in C that lets you chat between different termin
 ## Author
 
 **Rayen Drira**  
-Computer Engineering Student | Exploring IoT & Cybersecurity | Scout Leader 🏕️ 
-[GitHub Profile](https://github.com/RayenDrira)
+   Computer Engineering Student | Exploring IoT & Cybersecurity | Scout Leader 🏕️ 
+   [GitHub Profile](https://github.com/RayenDrira)
