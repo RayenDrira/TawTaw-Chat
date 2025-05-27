@@ -21,7 +21,7 @@ TawTaw is a local messaging app in C that lets you chat between different termin
    ```bash
    ./tawtaw
 
-## 👨‍💻 Author
+## Author
 
 **Rayen Drira**  
 Computer Engineering Student | Exploring IoT & Cybersecurity | Scout Leader 🏕️ 
